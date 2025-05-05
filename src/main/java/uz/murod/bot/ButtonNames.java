@@ -10,7 +10,6 @@ public enum ButtonNames {
     // hamma uchun
     CANCEL("Cancel");
 
-
     private final String string;
     ButtonNames(String string) {
         this.string = string;
