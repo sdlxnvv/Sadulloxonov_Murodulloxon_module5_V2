@@ -1,2 +1,2 @@
-# Sadulloxonov Murodulloxon
-## bot-url: @homeworkChecker2_bot
+## Sadulloxonov Murodulloxon
+### bot-url: @homeworkChecker2_bot
